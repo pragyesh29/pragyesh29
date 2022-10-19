@@ -12,6 +12,9 @@
   <img align="left" alt="Pragyesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=pragyeshtiwari.pragyeshtiwari)
+
+</br>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
