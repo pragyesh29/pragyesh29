@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://https://www.instagram.com/pragyesh.tiwari/?next=%2Fpragyesh.tiwari%2F%3E"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://https://www.instagram.com/pragyesh.tiwari/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!--
 **pragyesh29/pragyesh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
