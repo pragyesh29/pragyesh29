@@ -26,16 +26,16 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects and impr
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <!-- </div> -->
 **Frameworks Libraries and Tools**
-<div>
+<!-- <div> -->
   <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-</div>
+<!-- </div> -->
 **Databases**
-<div>
+<!-- <div> -->
   <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-</div>
+<!-- </div> -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
