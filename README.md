@@ -16,12 +16,10 @@
 
 </br>
 
-hi, I am Pragyesh Tiwari, a passionate programmer who likes to learn new technologies.
-
-I am new to open source community and I am already liking in here. I always aspire to learn more from all the awsome and skilled community members constantly 😄.
+Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects and improve and enhance technical skills by learning new technologies, I aspire to contribute to community by building awesome projects which can solve a real world problem in future. Though, I'm totally new to open source community but I'm already liking in here 😄.
 
 **Languages and Tools**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
