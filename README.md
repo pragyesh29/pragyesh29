@@ -16,7 +16,7 @@
 
 </br>
 
-Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve and enhance my skills and learn about new technologies, I aspire to contribute to community by building awesome projects which can solve a real world problem in future. Though, I'm totally new to open source community but I'm already liking in here 😄.
+Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve and enhance my skills and learn about new technologies, I aspire to contribute to community by building awesome projects which can solve a real world problem in future😄.
 
 **Languages**
  </br>
