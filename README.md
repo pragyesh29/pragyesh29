@@ -37,7 +37,7 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve
   <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
  </br>
  
- <hr width=50% margin=auto/>
+ <hr width=50% align=center/>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyesh29&show_icons=true&locale=en&layout=compact" alt="pragyesh29" /></p>
  
