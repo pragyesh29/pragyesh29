@@ -38,6 +38,10 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve
  </br>
   
  <hr styles="height: 30%; width: 50%;">
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyesh29&show_icons=true&locale=en" alt="pragyesh29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyesh29&" alt="pragyesh29" /></p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
