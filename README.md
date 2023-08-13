@@ -49,8 +49,6 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve
 ---
 [![](https://visitcount.itsvg.in/api?id=pragyesh29&icon=0&color=5)](https://visitcount.itsvg.in)
 
- <hr style="border: 1px solid orange">
-
  <!--
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyesh29&show_icons=true&locale=en&layout=compact" alt="pragyesh29" /></p>
  
