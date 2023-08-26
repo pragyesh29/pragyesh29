@@ -14,9 +14,12 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 </p>
-![](https://github-readme-stats.vercel.app/api?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pragyesh29&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img width="50%", src="https://github-readme-streak-stats.herokuapp.com/?user=pragyesh29&theme=tokyonight&hide_border=false">
+</p>
+<p align="center">
+  <img width="50%", src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
 <!--
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyesh29&show_icons=true&locale=en&layout=compact" alt="pragyesh29" /></p>
