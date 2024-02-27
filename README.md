@@ -15,17 +15,11 @@ Hi, I am Pragyesh Tiwari, a tech enthusiast who likes to build projects, improve
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 <p align="center">
-  <img width="50%", src="https://github-readme-streak-stats.herokuapp.com/?user=pragyesh29&theme=tokyonight&hide_border=false">
-</p>
-<p align="center">
   <img width="50%", src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyesh29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
-
-<!--
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyesh29&show_icons=true&locale=en&layout=compact" alt="pragyesh29" /></p>
  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on a project in which I am willing to train a Deep neural network for FingerPrint Scanning in order to authenticate the user by classifying him/her as genuine or forged. 
+🌱 I’m currently learning Convolutional Neural Network and Android Application Development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
